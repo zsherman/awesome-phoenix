@@ -5,14 +5,14 @@ A categorized community-driven collection of awesome Phoenix libraries, tools, f
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/zsherman/awesome-phoenix/blob/master/CONTRIBUTING.md) first.
 
 * [Awesome Phoenix](#awesome-phoenix)
+  * [Documentation](#documentation)
   * [Ecto](#ecto)
+  * [Package Management](#package-management)
 * [Services and Apps](#services-and-apps)
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 
 ## A/B Testing
-
-* [Rollout](https://github.com/FetLife/rollout) - Feature flippers.
 
 ## Admin
 
