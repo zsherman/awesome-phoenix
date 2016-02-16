@@ -8,6 +8,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
   * [Documentation](#documentation)
   * [Ecto](#ecto)
   * [Package Management](#package-management)
+  * [Tutorials](#tutorials)
 * [Services and Apps](#services-and-apps)
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
