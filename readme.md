@@ -127,7 +127,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Testing
 
 ## Tutorials
-
+[Writing a Blog Engine in Phoenix](https://medium.com/@diamondgfx/introduction-fe138ac6079d#.64dlmmsx7)
 
 # Services and Apps
 
