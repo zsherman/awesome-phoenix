@@ -28,6 +28,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Automation
 
+## Books
+
 ## Caching
 
 ## CLI
@@ -59,8 +61,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [Phoenix](phoenixframework.org) - The main documentation for the Phoenix framework.
 
 ## E-Commerce and Payments
-
-## Ebooks
 
 ## Ecto
 
@@ -109,8 +109,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Queue
 
 ## Generators
-
-## Robotics
 
 ## Routing
 
